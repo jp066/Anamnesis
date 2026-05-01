@@ -4,3 +4,6 @@ dist
 .env.local
 *.local
 doc-github.md
+jsconfig.json
+package-lock.json
+vite.config.js
